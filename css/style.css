@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family:'poppins', sans-serif;
+}
+body{
+    display: flex;
+}
+header{
+    background-color: gray;
+}
+aside{
+    background-color: rgb(175, 175, 175);
+}
+main{
+    background-color: rgb(221, 221, 221);
+}
+footer{
+    background-color: gray;
+}
